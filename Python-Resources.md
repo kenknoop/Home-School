@@ -5,6 +5,6 @@
 - [Python on GitHub](https://github.com/python)
 
 ## Selected Books
-- Python Crash Course, 2nd Ed. or later, published by No Starch Press.
+- Matthes, Eric. Python Crash Course, 2nd Ed. or later, published by No Starch Press.
 
 

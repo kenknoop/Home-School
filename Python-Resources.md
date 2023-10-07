@@ -15,11 +15,21 @@ If you're new to computer programming, python is probably the best language to s
 
 A Python list is the same thing as an array in other languages, like c/c++. Python lists are generally more convenient to use as they don't require memory allocation or specific typing.
 
-A simple Python list is like your grocery list. It's a one-dimensional array. Entries in the list are indexed numerically from 0 to the number of entries minus one.
+A simple Python list is like your grocery list. It's a one-dimensional array. Entries in the list are indexed numerically from 0 to the number of entries minus one (0,1,2...n-1).
 
 ```
 grocery_list=["cereal","milk","orange juice"]
 ```
+A longer form of this is:
+```
+grocery_list=[]
+grocery_list[0]="cereal"
+grocery_list[1]="milk"
+grocery_list[2]="orange juice"
+```
+The first line lets the Python interpreter know that `grocery_list` is a list.
+
+
 
 
 

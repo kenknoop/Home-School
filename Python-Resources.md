@@ -17,6 +17,11 @@ A Python list is the same thing as an array in other languages, like c/c++. Pyth
 
 A simple Python list is like your grocery list. It's a one-dimensional array. Entries in the list are indexed numerically from 0 to the number of entries minus one.
 
-'''
+```
 grocery_list=["cereal","milk","orange juice"]
-'''
+```
+
+
+
+
+

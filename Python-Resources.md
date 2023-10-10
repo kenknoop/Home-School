@@ -11,7 +11,9 @@
 
 If you're new to computer programming, python is probably the best language to start with. Following are short lessons and examples intended to supplement existing resources for new programmers and Python.
 
-## Lists and Arrays, Vectors, Matrices and Sets
+## Lists and Arrays, Tuples and Ranges, Vectors, Matrices and Sets
+
+These are are sequential data structures or can be represented by sequential data structures.
 
 A Python list is the same thing as an array in other languages, like c/c++. Python lists are generally more convenient to use as they don't require memory allocation or specific typing.
 
@@ -28,6 +30,8 @@ grocery_list[1]="milk"
 grocery_list[2]="orange juice"
 ```
 The first line lets the Python interpreter know that `grocery_list` is a list.
+
+
 
 
 

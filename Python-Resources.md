@@ -13,9 +13,9 @@ If you're new to computer programming, python is probably the best language to s
 
 ## Lists and Arrays, Tuples and Ranges, Vectors, Matrices and Sets
 
-### Lists
-
 These are are sequential data structures or can be represented by sequential data structures.
+
+### Lists
 
 A Python list is the same thing as an array in other languages, like c/c++. Python lists are generally more convenient to use as they don't require memory allocation or specific typing.
 

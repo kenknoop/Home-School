@@ -1,10 +1,10 @@
-# Python Resources
+,# Python Resources
 
 ## The Web
 - [Python.org](https://www.python.org/)
 - [Python on GitHub](https://github.com/python)
 
-## Selected Books
+## Selected Books 
 - Matthes, Eric. Python Crash Course, 2nd Ed. or later, published by No Starch Press.
 
 # Python and computer science for non programmers
@@ -33,6 +33,18 @@ grocery_list[2]="orange juice"
 ```
 The first line lets the Python interpreter know that `grocery_list` is a list.
 
+## Example: Is it a dog?
+
+This example combines Python lists, Boolean algebra, and vectors to make a very simple AI.
+
+```
+a_dog=["barks","has fur","has four legs",'wags its tail"]
+bv=[False,False,False,False]
+if bv[0] and bv[1] and bv[2] and bv[3] :
+    is_a_dog=True
+else:
+    is_a_dog=False
+```
 
 
 

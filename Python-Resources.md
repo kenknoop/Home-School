@@ -35,7 +35,7 @@ The first line lets the Python interpreter know that `grocery_list` is a list.
 
 ## Example: Is it a dog?
 
-This example combines Python lists, Boolean algebra, and vectors to make a very simple AI.s
+This example combines Python lists, Boolean algebra, and vectors to make a very simple AI. It classifies an object as a dog or not a dog.
 
 ```
 a_dog=["barks","has fur","has four legs",'wags its tail"]
@@ -46,7 +46,7 @@ else:
     is_a_dog=False
 ```
 
-Where bv is a Boolean Vector corresponding to each statement formed by the list. for example,"a dog barks" can be true or false (1 or 0).
+Where bv is a Boolean Vector corresponding to each statement formed by the list. for example,"a dog barks" can be true or false (1 or 0). We could explicitly name each Boolean variable. For example, a variable barks where `barks=True` or `barks=False`. However, this would make it difficult to extend our model to more characteristics and additional objects.
 
 
 

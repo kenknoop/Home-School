@@ -35,7 +35,7 @@ The first line lets the Python interpreter know that `grocery_list` is a list.
 
 ## Example: Is it a dog?
 
-This example combines Python lists, Boolean algebra, and vectors to make a very simple AI.
+This example combines Python lists, Boolean algebra, and vectors to make a very simple AI.s
 
 ```
 a_dog=["barks","has fur","has four legs",'wags its tail"]
@@ -45,6 +45,9 @@ if bv[0] and bv[1] and bv[2] and bv[3] :
 else:
     is_a_dog=False
 ```
+
+Where bv is a Boolean Vector corresponding to each statement formed by the list. for example,"a dog barks" can be true or false (1 or 0).
+
 
 
 
